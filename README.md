@@ -42,8 +42,8 @@ Proyek ini mengimplementasikan **sistem deteksi objek real-time** dengan **YOLOv
 
 1️⃣ **Klon repositori**
 ```bash
-git clone https://github.com/yourusername/yolov8-object-detection.git
-cd yolov8-object-detection
+git clone https://github.com/manap01/detections_man_woman.git
+cd detections_man_woman.git
 ```
 
 2️⃣ **Buat dan aktifkan lingkungan virtual** *(disarankan untuk isolasi dependensi)*
@@ -53,8 +53,8 @@ python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
 
 # Atau menggunakan conda
-conda create -n deteksi_objek_project python=3.8 -y
-conda activate deteksi_objek_project
+conda create -n detections_man_woman python=3.8 -y
+conda activate detections_man_woman
 ```
 
 3️⃣ **Instal dependensi**
@@ -175,9 +175,8 @@ Proyek ini dilisensikan di bawah **MIT License** - lihat file `LICENSE` untuk de
 ---
 
 ## 👥 Tim Pengembang
-- [@username1](https://github.com/username1)
-- [@username2](https://github.com/username2)
-- [@username3](https://github.com/username3)
+
+KELOMPOK1
 
 ---
 
