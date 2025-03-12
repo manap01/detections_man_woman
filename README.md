@@ -181,5 +181,5 @@ KELOMPOK1
 ---
 
 ## 📩 Kontak
-Untuk pertanyaan atau dukungan, silakan [buka issue](https://github.com/yourusername/yolov8-object-detection/issues) di repositori ini.
+Untuk pertanyaan atau dukungan, silakan [buka issue]([https://github.com/yourusername/yolov8-object-detection/issues](https://github.com/manap01/detections_man_woman/issues/1)) di repositori ini.
 
