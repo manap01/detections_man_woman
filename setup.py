@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="deteksi_objek",  # Nama package
+    name="detections_man_woman",  # Nama package
     version="1.0.0",
     author="Hanif Maulana Arrasyid",
     description="Package untuk deteksi objek menggunakan machine learning",
