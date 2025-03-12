@@ -176,7 +176,15 @@ Proyek ini dilisensikan di bawah **MIT License** - lihat file `LICENSE` untuk de
 
 ## 👥 Tim Pengembang
 
-KELOMPOK1
+🚀 **Tim Pengembang Proyek YOLOv8 - Sistem Deteksi Man/Woman**  
+
+| Nama      | GitHub Profile  |
+|-----------|----------------|
+| **Aritlhq**  | [🔗 GitHub](https://github.com/aritlhq)  |
+| **Manap01**  | [🔗 GitHub](https://github.com/manap01)  |
+
+Kami berdua bekerja sama dalam mengembangkan proyek ini agar semakin optimal dan bermanfaat bagi pengguna. Jika Anda tertarik untuk berkontribusi, silakan ajukan **Pull Request** atau **Issue**! 🚀  
+
 
 ---
 
