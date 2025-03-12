@@ -43,7 +43,7 @@ Proyek ini mengimplementasikan **sistem deteksi objek real-time** dengan **YOLOv
 1️⃣ **Klon repositori**
 ```bash
 git clone https://github.com/manap01/detections_man_woman.git
-cd detections_man_woman.git
+cd detections_man_woman
 ```
 
 2️⃣ **Buat dan aktifkan lingkungan virtual** *(disarankan untuk isolasi dependensi)*
