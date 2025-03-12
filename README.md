@@ -1,4 +1,4 @@
-# Object Detection with YOLOv8 and Voice AI
+# Object Detection with YOLOv8
 
 This project implements a real-time object detection system using YOLOv8 with optional voice feedback. It can process camera feeds, save detection results, and provide audio notifications of detected objects.
 
