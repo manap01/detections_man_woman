@@ -11,13 +11,13 @@ Proyek ini mengimplementasikan **sistem deteksi objek real-time** dengan **YOLOv
 
 ## ✨ Fitur Utama
 
-✅ **Deteksi objek real-time** dari webcam atau kamera eksternal
-✅ **Penghitungan berdasarkan kelas** untuk analisis lebih mendalam
-✅ **Pemantauan FPS** untuk menilai kinerja deteksi
-✅ **Simpan gambar dengan satu klik** saat deteksi berlangsung
-✅ **Rekaman video otomatis** dari sesi deteksi
-✅ **Manajemen output terorganisir** untuk gambar dan video
-✅ **Ambang batas deteksi yang dapat dikonfigurasi** untuk Confidence dan IoU
+✅ **Deteksi objek real-time** dari webcam atau kamera eksternal  
+✅ **Penghitungan berdasarkan kelas** untuk analisis lebih mendalam  
+✅ **Pemantauan FPS** untuk menilai kinerja deteksi  
+✅ **Simpan gambar dengan satu klik** saat deteksi berlangsung  
+✅ **Rekaman video otomatis** dari sesi deteksi  
+✅ **Manajemen output terorganisir** untuk gambar dan video  
+✅ **Ambang batas deteksi yang dapat dikonfigurasi** untuk Confidence dan IoU  
 
 ---
 
