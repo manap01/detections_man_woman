@@ -1,4 +1,4 @@
-# 🚀 YOLOv8 - Sistem Deteksi Objek Real-Time
+# 🚀 YOLOv8 - Sistem Deteksi Man/Woman
 
 Sistem deteksi objek canggih berbasis **YOLOv8** dengan fitur pemrosesan kamera, penyimpanan hasil, dan optimasi performa.
 
