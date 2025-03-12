@@ -180,6 +180,6 @@ KELOMPOK1
 
 ---
 
-## 📩 Kontak
-Untuk pertanyaan atau dukungan, silakan [buka issue]((https://github.com/manap01/detections_man_woman/issues/1)) di repositori ini.
+## 📩 Kontak  
+Untuk pertanyaan atau dukungan, silakan [buka issue](https://github.com/manap01/detections_man_woman/issues/1) di repositori ini.
 
