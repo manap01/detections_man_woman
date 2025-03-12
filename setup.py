@@ -1,15 +1,14 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="detections_man_woman",  # Nama package
-    version="1.0.0",
-    author="Hanif Maulana Arrasyid",
-    description="Package untuk deteksi objek menggunakan machine learning",
+    name="detections_man_woman",
+    version="0.1.0",
     packages=find_packages(),
-    install_requires=[
-        "numpy",
-        "opencv-python",
-        "torch",
-        "tensorflow"
+    install_requires=[],
+    author="manap01",
+    description="Paket untuk deteksi objek menggunakan Python",
+    url="https://github.com/manap01/detections_man_woman.git",
+    classifiers=[
+        "Programming Language :: Python :: 3",
     ],
 )
