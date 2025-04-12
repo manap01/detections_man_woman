@@ -178,11 +178,11 @@ Proyek ini dilisensikan di bawah **MIT License** - lihat file `LICENSE` untuk de
 
 # 🎓 Sertifikat
 
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 25px;">
 
-  <img src="Machine%20Learning.png" alt="Sertifikat Machine Learning" width="400" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);" />
+  <img src="Machine%20Learning.png" alt="Sertifikat Machine Learning" width="380" style="border-radius: 12px; box-shadow: 0 4px 14px rgba(0,0,0,0.2); transition: transform 0.3s ease, box-shadow 0.3s ease;" onmouseover="this.style.transform='scale(1.03)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.25)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 14px rgba(0,0,0,0.2)'" />
 
-  <img src="Python.png" alt="Sertifikat Python" width="400" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);" />
+  <img src="Python.png" alt="Sertifikat Python" width="380" style="border-radius: 12px; box-shadow: 0 4px 14px rgba(0,0,0,0.2); transition: transform 0.3s ease, box-shadow 0.3s ease;" onmouseover="this.style.transform='scale(1.03)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.25)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 14px rgba(0,0,0,0.2)'" />
 
 </div>
 
