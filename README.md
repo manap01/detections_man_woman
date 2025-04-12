@@ -181,9 +181,13 @@ Proyek ini dilisensikan di bawah **MIT License** - lihat file `LICENSE` untuk de
 
 Berikut adalah sertifikat yang saya peroleh dalam bidang **Machine Learning** dan **Python**:
 
-![Sertifikat Machine Learning](Machine%20Learning.png)
-![Sertifikat Python](Python.png)
 
+| Sertifikat | Deskripsi |  
+|-------------|-----------|
+| ![Machine Learning](Machine%20Learning.png) | **Sertifikat Machine Learning** - Menunjukkan kemampuan dalam machine learning, termasuk algoritma dan model. |
+| ![Python](Python.png) | **Sertifikat Python** - Menghargai keterampilan dalam pengembangan dengan bahasa pemrograman Python. |
+
+---
 
 ---
 
