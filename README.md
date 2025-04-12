@@ -178,13 +178,13 @@ Proyek ini dilisensikan di bawah **MIT License** - lihat file `LICENSE` untuk de
 
 # 🎓 Sertifikat
 
-<p align="center">
-  <img src="Machine%20Learning.png" alt="Machine Learning" width="500"/>
-</p>
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
 
-<p align="center">
-  <img src="Python.png" alt="Python" width="500"/>
-</p>
+  <img src="Machine%20Learning.png" alt="Sertifikat Machine Learning" width="400" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);" />
+
+  <img src="Python.png" alt="Sertifikat Python" width="400" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);" />
+
+</div>
 
 ---
 
