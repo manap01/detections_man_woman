@@ -1,4 +1,7 @@
-# 🚀 YOLOv8 - Sistem Deteksi Objek Real-Time
+[![Python](https://img.shields.io/badge/Made%20with-Python-blue?logo=python)](https://www.python.org/)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+
+# 🚀 YOLOv8 - Sistem Deteksi Man/Woman
 
 Sistem deteksi objek canggih berbasis **YOLOv8** dengan fitur pemrosesan kamera, penyimpanan hasil, dan optimasi performa.
 
@@ -11,13 +14,13 @@ Proyek ini mengimplementasikan **sistem deteksi objek real-time** dengan **YOLOv
 
 ## ✨ Fitur Utama
 
-✅ **Deteksi objek real-time** dari webcam atau kamera eksternal
-✅ **Penghitungan berdasarkan kelas** untuk analisis lebih mendalam
-✅ **Pemantauan FPS** untuk menilai kinerja deteksi
-✅ **Simpan gambar dengan satu klik** saat deteksi berlangsung
-✅ **Rekaman video otomatis** dari sesi deteksi
-✅ **Manajemen output terorganisir** untuk gambar dan video
-✅ **Ambang batas deteksi yang dapat dikonfigurasi** untuk Confidence dan IoU
+✅ **Deteksi objek real-time** dari webcam atau kamera eksternal  
+✅ **Penghitungan berdasarkan kelas** untuk analisis lebih mendalam  
+✅ **Pemantauan FPS** untuk menilai kinerja deteksi  
+✅ **Simpan gambar dengan satu klik** saat deteksi berlangsung  
+✅ **Rekaman video otomatis** dari sesi deteksi  
+✅ **Manajemen output terorganisir** untuk gambar dan video  
+✅ **Ambang batas deteksi yang dapat dikonfigurasi** untuk Confidence dan IoU  
 
 ---
 
@@ -42,8 +45,8 @@ Proyek ini mengimplementasikan **sistem deteksi objek real-time** dengan **YOLOv
 
 1️⃣ **Klon repositori**
 ```bash
-git clone https://github.com/yourusername/yolov8-object-detection.git
-cd yolov8-object-detection
+git clone https://github.com/manap01/detections_man_woman.git
+cd detections_man_woman
 ```
 
 2️⃣ **Buat dan aktifkan lingkungan virtual** *(disarankan untuk isolasi dependensi)*
@@ -53,8 +56,8 @@ python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
 
 # Atau menggunakan conda
-conda create -n deteksi_objek_project python=3.8 -y
-conda activate deteksi_objek_project
+conda create -n detections_man_woman python=3.8 -y
+conda activate detections_man_woman
 ```
 
 3️⃣ **Instal dependensi**
@@ -175,12 +178,19 @@ Proyek ini dilisensikan di bawah **MIT License** - lihat file `LICENSE` untuk de
 ---
 
 ## 👥 Tim Pengembang
-- [@username1](https://github.com/username1)
-- [@username2](https://github.com/username2)
-- [@username3](https://github.com/username3)
+
+🚀 **Tim Pengembang Proyek YOLOv8 - Sistem Deteksi Man/Woman**  
+
+| Nama      | GitHub Profile  |
+|-----------|----------------|
+| **Aritlhq**  | [🔗 GitHub](https://github.com/aritlhq)  |
+| **Manap01**  | [🔗 GitHub](https://github.com/manap01)  |
+
+Kami berdua bekerja sama dalam mengembangkan proyek ini agar semakin optimal dan bermanfaat bagi pengguna. Jika Anda tertarik untuk berkontribusi, silakan ajukan **Pull Request** atau **Issue**! 🚀  
+
 
 ---
 
-## 📩 Kontak
-Untuk pertanyaan atau dukungan, silakan [buka issue](https://github.com/yourusername/yolov8-object-detection/issues) di repositori ini.
+## 📩 Kontak  
+Untuk pertanyaan atau dukungan, silakan [buka issue](https://github.com/manap01/detections_man_woman/issues/1) di repositori ini.
 
