@@ -177,16 +177,12 @@ Proyek ini dilisensikan di bawah **MIT License** - lihat file `LICENSE` untuk de
 
 ---
 
-## 👥 Tim Pengembang
+# 🎓 Sertifikat
 
-🚀 **Tim Pengembang Proyek YOLOv8 - Sistem Deteksi Man/Woman**  
+Berikut adalah sertifikat yang saya peroleh dalam bidang **Machine Learning** dan **Python**:
 
-| Nama      | GitHub Profile  |
-|-----------|----------------|
-| **Aritlhq**  | [🔗 GitHub](https://github.com/aritlhq)  |
-| **Manap01**  | [🔗 GitHub](https://github.com/manap01)  |
-
-Kami berdua bekerja sama dalam mengembangkan proyek ini agar semakin optimal dan bermanfaat bagi pengguna. Jika Anda tertarik untuk berkontribusi, silakan ajukan **Pull Request** atau **Issue**! 🚀  
+![Sertifikat Machine Learning](Machine%20Learning.png)
+![Sertifikat Python](Python.png)
 
 
 ---
