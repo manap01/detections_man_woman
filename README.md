@@ -1,3 +1,6 @@
+[![Python](https://img.shields.io/badge/Made%20with-Python-blue?logo=python)](https://www.python.org/)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+
 # 🚀 YOLOv8 - Sistem Deteksi Man/Woman
 
 Sistem deteksi objek canggih berbasis **YOLOv8** dengan fitur pemrosesan kamera, penyimpanan hasil, dan optimasi performa.
